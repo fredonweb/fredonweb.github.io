@@ -1,3 +1,3 @@
 # fredonweb.github.io
 
-# Test de développement d'un plugin Leaflet
+<p>Test de développement d'un plugin Leaflet</p>
